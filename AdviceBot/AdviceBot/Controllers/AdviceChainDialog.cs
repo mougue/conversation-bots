@@ -21,7 +21,7 @@ namespace AdviceBot.Controllers
 
         //DocumentDB connection Info
         private const string EndpointUri = "https://advicebotdb.documents.azure.com:443/";
-        private const string PrimaryKey = "DIjubQfc8c96jrUPnmxTDRfe2jcG6iJrXtZZ0XzyGem3hAGmCYu8GEj0NAiYN1mWIZPsh4RAMuoTDShxsx0cMg==";
+        private const string PrimaryKey = "YourKeyHere";
         private const string databaseName = "AdviceBotDB";
         private const string collectionName = "AdviceCollection";
         private const string defaultResponse = @"Sorry, I don't think I can advise you on that. ¯\\_(ツ)_/¯  Try asking me a question about a topic, like: Give me advice on people";
