@@ -20,7 +20,7 @@ namespace AdviceBot.Controllers
 
             using (var client = new HttpClient())
             {
-                string LUISurl = "https://api.projectoxford.ai/luis/v1/application?id=38a7af3c-7b63-4016-92ba-b9ed03ffc8b2&subscription-key=d3f0150e09d242a0a5360e6f6c58d24f&q=" + input;
+                string LUISurl = "YourLUISPublishedAppURLHERE&q=" + input;
                 HttpResponseMessage msg = await client.GetAsync(LUISurl);
 
                 if (msg.IsSuccessStatusCode)
