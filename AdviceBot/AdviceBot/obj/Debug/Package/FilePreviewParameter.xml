@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="AdviceBot" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\Visual\ Studio\ 2015\\Projects\\AdviceBot\\AdviceBot\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^F:\\Visual\ Studio\ 2015\\Projects\\AdviceBot\\AdviceBot\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

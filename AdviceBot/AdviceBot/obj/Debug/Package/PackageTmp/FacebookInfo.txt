@@ -1,0 +1,4 @@
+﻿URL:  https://developers.facebook.com/apps/1093225697367641/
+AppID:  1093225697367641
+App Secret:  ecc2b536f4a3c839cae5fb20cf0082c8
+PageID:  131803033899108
