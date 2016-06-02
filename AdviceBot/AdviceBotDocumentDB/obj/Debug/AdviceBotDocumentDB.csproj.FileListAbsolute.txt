@@ -11,3 +11,6 @@ F:\Visual Studio 2015\Projects\AdviceBot\AdviceBotDocumentDB\obj\Debug\AdviceBot
 F:\Visual Studio 2015\Projects\AdviceBot\AdviceBotDocumentDB\obj\Debug\AdviceBotDocumentDB.exe
 F:\Visual Studio 2015\Projects\AdviceBot\AdviceBotDocumentDB\obj\Debug\AdviceBotDocumentDB.pdb
 F:\Visual Studio 2015\Projects\AdviceBot\AdviceBotDocumentDB\bin\Debug\AdviceForLife.csv
+F:\Visual Studio 2015\Git Projects\conversation-bots\AdviceBot\AdviceBotDocumentDB\bin\Debug\AdviceBotDocumentDB.exe.config
+F:\Visual Studio 2015\Git Projects\conversation-bots\AdviceBot\AdviceBotDocumentDB\obj\Debug\AdviceBotDocumentDB.exe
+F:\Visual Studio 2015\Git Projects\conversation-bots\AdviceBot\AdviceBotDocumentDB\obj\Debug\AdviceBotDocumentDB.pdb
